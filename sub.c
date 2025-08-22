@@ -10,10 +10,11 @@ int main() {
     printf("Enter second number: ");
     scanf("%d", &num2);
 
-    // Calculate sum
+    // Calculate sub
     sub = num1 - num2;
 
     // Display result
-    printf("Sum = %d\n", sub);
+    printf("Sub = %d\n", sub);
     return 0;
 }
+
