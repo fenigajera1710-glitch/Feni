@@ -7,9 +7,10 @@ int main()
     printf("Enter amount in dollars:");
     scanf("%d",&dollars);
 
-    Rs = dollars/48;
+    Rs = dollars*48;
 
     printf("%d dollars = %d Rs.\n",dollars,Rs);
 
     return 0;
+
 }
