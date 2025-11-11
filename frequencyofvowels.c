@@ -22,7 +22,7 @@ int main(){
             case 'U':  u++; break;
         }
     }
-    printf("Fequency of vowels:\n");
+    printf("Frequency of vowels:\n");
     printf("a/A = %d\n",a);
     printf("e/E = %d\n",e);
     printf("i/I = %d\n",i);
